@@ -15,7 +15,7 @@
     "strict": true,
     "strictNullChecks": true,
     "jsx": "react",
-    "pretty": true,
+    "pretty": false,
     "baseUrl": "./src",
     "types": [
       "node",

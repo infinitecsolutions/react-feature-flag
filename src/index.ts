@@ -5,3 +5,5 @@ export { createFlagsReducer } from './create-flags-reducer';
 export { setFlagsAction } from './set-flags-action';
 export * from './types';
 export { withFlags } from './with-flags';
+export { DisabledFeature } from './disabled-feature';
+export { EnabledFeature } from './enabled-feature';
