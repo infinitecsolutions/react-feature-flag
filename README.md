@@ -1,6 +1,7 @@
 # Flag
 
 _Feature flagging made easy for React and Redux_
+Originally forked from https://github.com/unbounce/flag
 
 ```
 yarn add flag

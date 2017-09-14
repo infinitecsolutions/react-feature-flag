@@ -1,12 +1,12 @@
 {
-  "name": "flag",
-  "version": "2.0.4",
+  "name": "react-flag",
+  "version": "0.0.1",
   "description": "Feature flagging made easy for React and Redux",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
-  "author": "Unbounce",
+  "author": "Hugo Magalhães <hugomn@gmail.com>",
   "license": "MIT",
-  "repository": "github:unbounce/flag",
+  "repository": "github:hugomn/react-flag",
   "scripts": {
     "test": "jest",
     "build": "rm -rf build && tsc --outDir build -d",
