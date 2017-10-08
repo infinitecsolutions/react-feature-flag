@@ -1,10 +1,10 @@
-# Flag
+# React-feature-flag
 
-_Feature flagging made easy for React and Redux_
+_Feature flagging made easy for React
 Originally forked from https://github.com/unbounce/flag
 
 ```
-yarn add flag
+npm install react-feature-flag
 ```
 
 ## Motivation

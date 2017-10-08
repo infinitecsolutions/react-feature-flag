@@ -1,15 +1,15 @@
 {
-  "name": "react-flag",
-  "version": "0.0.3",
-  "description": "Feature flagging made easy for React and Redux",
+  "name": "react-feature-flag",
+  "version": "0.0.4",
+  "description": "Feature flagging made easy for React",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
   "author": "Hugo Magalhães <hugomn@gmail.com>",
   "license": "MIT",
-  "repository": "github:hugomn/react-flag",
+  "repository": "github:infinitecsolutions/react-feature-flag",
   "scripts": {
     "test": "jest",
-    "build": "rm -rf build && tsc --outDir build -d",
+    "build": "rm -rf build && tsc --outDir build -d --watch",
     "release": "np"
   },
   "dependencies": {
